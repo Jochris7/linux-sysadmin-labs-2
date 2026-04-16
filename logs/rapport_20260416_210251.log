@@ -1,0 +1,31 @@
+============================================
+ RAPPORT DE CRÉATION D'UTILISATEURS
+ Date : jeu. 16 avril 2026 21:02:51 GMT
+============================================
+
+[INFO] Traitement de l'utilisateur : alice
+[INFO] Groupe 'developers' créé.
+[0;32m[OK] Utilisateur 'alice' créé → groupe: developers, shell: /bin/bash[0m
+
+[INFO] Traitement de l'utilisateur : bob
+[0;32m[OK] Utilisateur 'bob' créé → groupe: developers, shell: /bin/bash[0m
+
+[INFO] Traitement de l'utilisateur : carol
+[INFO] Groupe 'admins' créé.
+[0;32m[OK] Utilisateur 'carol' créé → groupe: admins, shell: /bin/bash[0m
+
+[INFO] Traitement de l'utilisateur : dave
+[INFO] Groupe 'marketing' créé.
+[0;32m[OK] Utilisateur 'dave' créé → groupe: marketing, shell: /bin/sh[0m
+
+[INFO] Traitement de l'utilisateur : eve
+[0;32m[OK] Utilisateur 'eve' créé → groupe: admins, shell: /bin/bash[0m
+
+============================================
+ RÉSUMÉ
+============================================
+ ✅ Créés   : 0
+ ⏭️  Ignorés : 0
+ ❌ Erreurs : 0
+ 📄 Rapport sauvegardé dans : scripts/../logs/rapport_20260416_210251.log
+============================================

@@ -1,0 +1,6 @@
+username,group,shell
+alice,developers,/bin/bash
+bob,developers,/bin/bash
+carol,admins,/bin/bash
+dave,marketing,/bin/sh
+eve,admins,/bin/bash
