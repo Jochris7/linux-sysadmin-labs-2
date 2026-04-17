@@ -13,16 +13,6 @@ d'un rapport de log.
 - ✅ Rapport de log horodaté dans `/logs/`
 - ✅ Affichage coloré dans le terminal
 
-## Structure du projet
-\`\`\`
-linux-sysadmin-labs-2/
-├── scripts/
-│   ├── create_users.sh   # Script principal
-│   └── users.csv         # Fichier d'entrée
-├── logs/                 # Rapports générés automatiquement
-└── README.md
-\`\`\`
-
 ## Utilisation
 
 \`\`\`bash
@@ -51,8 +41,6 @@ bob,admins,/bin/bash
 [OK] Utilisateur 'alice' créé → groupe: developers, shell: /bin/bash
 [OK] Utilisateur 'bob' créé → groupe: developers, shell: /bin/bash
 [IGNORÉ] L'utilisateur 'carol' existe déjà.
-============================================
- RÉSUMÉ : ✅ Créés: 2 | ⏭️ Ignorés: 1 | ❌ Erreurs: 0
 ============================================
 \`\`\`
 
